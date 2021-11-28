@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PedidosWeb", "PedidosWeb.csproj", "{2DCE087B-9C43-482E-8302-4EABEE39FB11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PedidoDominio", "..\PedidoDominio\PedidoDominio.csproj", "{7B1F8322-BF74-4CDC-ACB3-B8365D91745E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DCE087B-9C43-482E-8302-4EABEE39FB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DCE087B-9C43-482E-8302-4EABEE39FB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DCE087B-9C43-482E-8302-4EABEE39FB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DCE087B-9C43-482E-8302-4EABEE39FB11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B1F8322-BF74-4CDC-ACB3-B8365D91745E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B1F8322-BF74-4CDC-ACB3-B8365D91745E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B1F8322-BF74-4CDC-ACB3-B8365D91745E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B1F8322-BF74-4CDC-ACB3-B8365D91745E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {451478DD-3654-450F-88E6-BAD075B15589}
+	EndGlobalSection
+EndGlobal

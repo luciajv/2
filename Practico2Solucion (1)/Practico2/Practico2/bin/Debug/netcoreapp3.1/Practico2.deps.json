@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Practico2/1.0.0": {
+        "dependencies": {
+          "Practico2Dominio": "1.0.0"
+        },
+        "runtime": {
+          "Practico2.dll": {}
+        }
+      },
+      "Practico2Dominio/1.0.0": {
+        "runtime": {
+          "Practico2Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practico2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Practico2Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

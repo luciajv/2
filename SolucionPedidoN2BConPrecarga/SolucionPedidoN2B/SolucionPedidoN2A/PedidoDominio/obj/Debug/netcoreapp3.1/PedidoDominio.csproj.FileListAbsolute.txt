@@ -1,0 +1,16 @@
+D:\Clases2021\Agosto2021\Semana6\SolucionPedidoN2B\SolucionPedidoN2A\PedidoDominio\bin\Debug\netcoreapp3.1\PedidoDominio.deps.json
+D:\Clases2021\Agosto2021\Semana6\SolucionPedidoN2B\SolucionPedidoN2A\PedidoDominio\bin\Debug\netcoreapp3.1\PedidoDominio.dll
+D:\Clases2021\Agosto2021\Semana6\SolucionPedidoN2B\SolucionPedidoN2A\PedidoDominio\bin\Debug\netcoreapp3.1\PedidoDominio.pdb
+D:\Clases2021\Agosto2021\Semana6\SolucionPedidoN2B\SolucionPedidoN2A\PedidoDominio\obj\Debug\netcoreapp3.1\PedidoDominio.csproj.AssemblyReference.cache
+D:\Clases2021\Agosto2021\Semana6\SolucionPedidoN2B\SolucionPedidoN2A\PedidoDominio\obj\Debug\netcoreapp3.1\PedidoDominio.AssemblyInfoInputs.cache
+D:\Clases2021\Agosto2021\Semana6\SolucionPedidoN2B\SolucionPedidoN2A\PedidoDominio\obj\Debug\netcoreapp3.1\PedidoDominio.AssemblyInfo.cs
+D:\Clases2021\Agosto2021\Semana6\SolucionPedidoN2B\SolucionPedidoN2A\PedidoDominio\obj\Debug\netcoreapp3.1\PedidoDominio.csproj.CoreCompileInputs.cache
+D:\Clases2021\Agosto2021\Semana6\SolucionPedidoN2B\SolucionPedidoN2A\PedidoDominio\obj\Debug\netcoreapp3.1\PedidoDominio.dll
+D:\Clases2021\Agosto2021\Semana6\SolucionPedidoN2B\SolucionPedidoN2A\PedidoDominio\obj\Debug\netcoreapp3.1\PedidoDominio.pdb
+C:\Users\lucia\Desktop\SolucionPedidoN2BConPrecarga\SolucionPedidoN2B\SolucionPedidoN2A\PedidoDominio\obj\Debug\netcoreapp3.1\PedidoDominio.dll
+C:\Users\lucia\Desktop\SolucionPedidoN2BConPrecarga\SolucionPedidoN2B\SolucionPedidoN2A\PedidoDominio\obj\Debug\netcoreapp3.1\PedidoDominio.pdb
+C:\Users\lucia\Desktop\SolucionPedidoN2BConPrecarga\SolucionPedidoN2B\SolucionPedidoN2A\PedidoDominio\obj\Debug\netcoreapp3.1\PedidoDominio.csproj.AssemblyReference.cache
+C:\Users\lucia\Desktop\SolucionPedidoN2BConPrecarga\SolucionPedidoN2B\SolucionPedidoN2A\PedidoDominio\obj\Debug\netcoreapp3.1\PedidoDominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\Desktop\SolucionPedidoN2BConPrecarga\SolucionPedidoN2B\SolucionPedidoN2A\PedidoDominio\obj\Debug\netcoreapp3.1\PedidoDominio.AssemblyInfoInputs.cache
+C:\Users\lucia\Desktop\SolucionPedidoN2BConPrecarga\SolucionPedidoN2B\SolucionPedidoN2A\PedidoDominio\obj\Debug\netcoreapp3.1\PedidoDominio.AssemblyInfo.cs
+C:\Users\lucia\Desktop\SolucionPedidoN2BConPrecarga\SolucionPedidoN2B\SolucionPedidoN2A\PedidoDominio\obj\Debug\netcoreapp3.1\PedidoDominio.csproj.CoreCompileInputs.cache

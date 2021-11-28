@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PedidosWeb/1.0.0": {
+        "dependencies": {
+          "PedidoDominio": "1.0.0"
+        },
+        "runtime": {
+          "PedidosWeb.dll": {}
+        }
+      },
+      "PedidoDominio/1.0.0": {
+        "runtime": {
+          "PedidoDominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PedidosWeb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PedidoDominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
